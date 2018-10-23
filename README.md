@@ -14,3 +14,7 @@ Here we have used a subset of the dataset presented in this paper:
   url       = {http://www.aclweb.org/anthology/P11-1015}
 }
 ```
+
+Team Members:
+Gaurav Agarwal
+Rana Alshemali
