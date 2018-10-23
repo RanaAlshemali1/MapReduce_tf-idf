@@ -15,6 +15,6 @@ Here we have used a subset of the dataset presented in this paper:
 }
 ```
 
-Team Members:<br />
+**Team Members:**<br />
 Gaurav Agarwal<br />
 Rana Alshemali
