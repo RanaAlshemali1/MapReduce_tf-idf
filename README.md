@@ -1,4 +1,4 @@
-# tf-idf: TF-IDF Computation Using Map-Reduce
+# tf-idf: TF-IDF Computation Using Map-Reduce | Oct 2018
 We implemented TF-IDF computation using the map-reduce paradigm. TF-IDF is a very common metric used in information retrieval to estimate the importance of a word to a particular document (https://en.wikipedia.org/wiki/Tf-idf). TF-IDF and its variants are used in search engines, document mining etc.
  
 
